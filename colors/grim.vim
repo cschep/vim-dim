@@ -20,4 +20,5 @@ else
   highlight Title          ctermfg=15 cterm=bold
   highlight Type           ctermfg=15
   highlight Underlined     cterm=underline ctermfg=15
+  highlight String         ctermfg=13
 end
