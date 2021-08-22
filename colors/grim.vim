@@ -21,4 +21,6 @@ else
   highlight Type           ctermfg=15
   highlight Underlined     cterm=underline ctermfg=15
   highlight String         ctermfg=13
+  highlight Directory      ctermfg=13
+  highlight EndOfBuffer    ctermfg=13
 end
